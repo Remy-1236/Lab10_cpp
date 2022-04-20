@@ -1,6 +1,6 @@
 // Lab10.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-// test-gabe
+
 #include <iostream>
 #include <string.h>
 using namespace std;
